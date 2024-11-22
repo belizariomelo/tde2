@@ -68,9 +68,10 @@ body{
     border-radius: 5px;
 }
 .section--intro{
+    background-position: center;
     background-size: cover;
-    margin-bottom: 15px;
-    padding: 10px;
+    padding-bottom: 15px;
+
 }
 .intro__title{
     padding-top: 15px;
@@ -473,16 +474,17 @@ ul.footer__social li:nth-child(1) a {
 
   @media (min-width: 425px){
     html{
-        background-image:url(../dfev1bx-abb2cbf0-3268-4a4b-bb5f-b9119807993a.gif);
+        
+        background-image:url(../../g0upkrt886a91.gif);
         background-repeat: no-repeat;          
         background-size: cover;               
-        background-position: center; 
+        background-position: left; 
+        background-attachment: fixed;
         }
         
     .header{
         background-size: cover;
         background-image:url(../9-more-things-to-do-first-blogroll-1684518010278.jpg);
-        border-radius: 10px 10px 0 0;
         display: flex;
         flex-direction: column;
     }
