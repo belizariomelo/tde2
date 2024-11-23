@@ -1,7 +1,14 @@
 @import url('https://fonts.cdnfonts.com/css/the-wild-breath-of-zelda');
 @import url('https://fonts.cdnfonts.com/css/museo-sans-rounded');
 @import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Bitter:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
+html{
+    background-image:url(../g0upkrt886a91.gif);
+    background-repeat: no-repeat;          
+    background-size: cover;               
+    background-position:top; 
+    background-attachment: fixed;
+    }
+   
 body{
     max-width: 780px;
     background-color: rgba(234, 239, 244, 0.9);  
